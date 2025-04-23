@@ -1,0 +1,25 @@
+_repo: Raubwild-und-Dickhauter-in-Deutsch-Ostafrika_75805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Besser, Hans
+    gutenberg_agent_id: '58154'
+    url: http://www.gutenberg.org/2009/agents/58154
+description: ''
+gutenberg_issued: '2025-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75805'
+language: de
+pgterms:marc905: 20230309073836besser
+pgterms:marc906: '1915'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aStuttgart :$bFrankh''sche Verlagshandlung, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Raubwild und Dickhäuter in Deutsch-Ostafrika
+url: http://www.gutenberg.org/ebooks/75805
